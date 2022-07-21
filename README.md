@@ -1,3 +1,4 @@
 # ngrok
-ngrok stabile halı  kulanım   python ngrok.token.py
+ngrok stabile halı  kulanım   python ngrok.request.py
 chmod 777 *
+
